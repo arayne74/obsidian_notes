@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e66ead5603eb3b98",
+        "id": "37f614e69efeb4b7",
         "type": "tabs",
         "children": [
           {
-            "id": "a631e28f697d7716",
+            "id": "0684338cba7f73f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -179,10 +183,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5a03584ca1458dd",
+  "active": "0684338cba7f73f2",
   "lastOpenFiles": [
-    "my_private_key_backup.asc",
-    "test some notes for encryption.md",
-    "Welcome.md"
+    "Some Anyaisms.md",
+    "grilled aubergine.md",
+    "App ideas.md",
+    "mind/manifesto for a new life.md",
+    "mind/Thought forms 20.01.2014.md",
+    "mind/Struggles Fearsetting.md",
+    "mind/Room for not knowing.md",
+    "mind/Reading.md",
+    "mind/D with V.md",
+    "mind/Camino de Santiago.md",
+    "mind",
+    "diary/31.08.2017.md",
+    "diary/29.04.2020.md",
+    "diary/29.04 pt2.md",
+    "diary/28.01.2020.md",
+    "diary/27.01.2020.md",
+    "diary/21.03.2020.md",
+    "diary/20.10.2017.md",
+    "diary/16.10.2018.md",
+    "diary/15.03.2020.md",
+    "diary/14.02.2020.md",
+    "diary/12.03.2020.md",
+    "diary/10.06.2015.md",
+    "diary/1.02.2020.md",
+    "diary/09.02.2020.md",
+    "diary/08.02.2020.md",
+    "diary/04.2018 rambles.md",
+    "diary",
+    "books/Growing up",
+    "books",
+    "blog",
+    "Aikido",
+    "my_private_key_backup.asc"
   ]
 }
