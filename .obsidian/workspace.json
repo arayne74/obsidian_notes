@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "books/Starts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Starts"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "App ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for App ideas"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "App ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from App ideas"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test last time.md",
+                "file": "App ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test last time"
+              "title": "Outline of App ideas"
             }
           },
           {
@@ -192,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5a03584ca1458dd",
+  "active": "0684338cba7f73f2",
   "lastOpenFiles": [
+    "App ideas.md",
+    "books/Starts.md",
     "Welcome.md",
     "test last time.md",
     "Some Anyaisms.md",
     "grilled aubergine.md",
-    "App ideas.md",
     "mind/manifesto for a new life.md",
     "mind/Thought forms 20.01.2014.md",
     "mind/Struggles Fearsetting.md",
@@ -220,7 +223,6 @@
     "diary/12.03.2020.md",
     "diary/10.06.2015.md",
     "diary/1.02.2020.md",
-    "diary/09.02.2020.md",
     "diary",
     "books/Growing up",
     "books",
