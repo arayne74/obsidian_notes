@@ -1,0 +1,7 @@
+# do not encrypt git related files
+.git/ !filter !diff
+.git* !filter !diff
+# encrupt obsidian md files
+*.md filter=git-crypt diff=git-crypt
+# optionallt encrypt images
+*.png filter=git-crypt diff=git-crypt
