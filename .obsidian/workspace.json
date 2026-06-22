@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Starts.md",
+                "file": "diary/21.06.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starts"
+              "title": "21.06.2026"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "0684338cba7f73f2",
   "lastOpenFiles": [
+    "books/Starts looking up.md",
+    "diary/21.06.2026.md",
     "App ideas.md",
-    "books/Starts.md",
     "Welcome.md",
     "test last time.md",
     "Some Anyaisms.md",
@@ -222,7 +223,6 @@
     "diary/14.02.2020.md",
     "diary/12.03.2020.md",
     "diary/10.06.2015.md",
-    "diary/1.02.2020.md",
     "diary",
     "books/Growing up",
     "books",
