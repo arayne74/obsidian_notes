@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Berlin or beginning.md",
+                "file": "books/or beginning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berlin or beginning"
+              "title": "or beginning"
             }
           }
         ]
@@ -199,7 +199,7 @@
   "active": "0684338cba7f73f2",
   "lastOpenFiles": [
     "diary/21.06.2026.md",
-    "books/Berlin or beginning.md",
+    "books/or beginning.md",
     "books/Starts looking up.md",
     "App ideas.md",
     "Welcome.md",
